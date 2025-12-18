@@ -1,33 +1,49 @@
 # 👋 Hi, I'm Mugonza Moses
 
-Welcome to my GitHub! I’m **new to GitHub** and using this space to learn, practice, and store my academic work.
+I'm a **MSc student in Mathematical Modelling** with a passion for **numerical methods, stochastic processes, and scientific computing**. I’m currently learning Python and R to simulate mathematical models and Markov chains.
+
+---
 
 ## 🎓 About Me
 
 * Student in **Mathematical Modelling**
-* Interested in **numerical methods** and **scientific computing**
-* I mainly work with **Python** for university projects
-
-## 📘 What You’ll Find Here
-
-* Simple Python scripts
-* University assignments and practice projects
-* Simulations of **Markov chains** and stochastic processes
-* Experiments while learning Git, GitHub, and numerical methods
-
-## 🛠️ Tools I Use
-
-* Python
-* **R** (for statistical analysis and simulations)
-* Git & GitHub (learning)
-* LaTeX (for reports)
-
-## 🌱 Currently Learning
-
-* Numerical methods for ODEs
-* Better Python coding practices
-* How to use Git and GitHub effectively
+* Background in **Industrial Economics**
+* Interested in **numerical methods**, **Markov chains**, and **ODE simulations**
 
 ---
 
-This repository is part of my learning journey. I’ll improve it over time as I gain more experience.
+## 🛠️ Tools I Use
+
+* **Python** – Numerical methods, simulations
+* **R** – Stochastic models in Neurocognition and statistical inference
+* **Git & GitHub** – Version control and collaboration
+* **LaTeX** – Reports and documentation
+
+---
+
+## 📂 Projects
+
+* Python simulations of **Markov chains**
+* R scripts for **stochastic models in Neurocognition** and **statistical inference**
+* Coursework and university projects
+* Learning exercises in numerical methods
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced **numerical methods for ODEs**
+* **Stochastic modeling in Neurocognition**
+* **Statistical inference methods**
+* Better **Python & R coding practices**
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [@mugonzamoses](https://github.com/mugonzamoses)
+
+
+---
+
+⭐ This profile documents my learning journey in applied mathematics and computational projects.
